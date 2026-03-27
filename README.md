@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/@mcptoolshop/xrpl-lab"><img src="https://img.shields.io/npm/v/@mcptoolshop/xrpl-lab" alt="npm version"></a>
   <a href="https://github.com/mcp-tool-shop-org/npm-xrpl-lab/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License"></a>
-  <a href="https://mcp-tool-shop-org.github.io/xrpl-lab/"><img src="https://img.shields.io/badge/Landing_Page-live-blue" alt="Landing Page"></a>
+  <a href="https://mcp-tool-shop-org.github.io/npm-xrpl-lab/"><img src="https://img.shields.io/badge/Landing_Page-live-blue" alt="Landing Page"></a>
 </p>
 
 XRPL training workbook — learn by doing, prove by artifact.
@@ -71,7 +71,7 @@ npx @mcptoolshop/xrpl-lab --help         # see all commands
 ## Troubleshooting
 
 ```bash
-npx @mcptoolshop/xrpl-lab self-check         # diagnose your environment
+npx @mcptoolshop/xrpl-lab doctor             # diagnose your environment
 npx @mcptoolshop/xrpl-lab feedback           # generate issue-ready markdown
 npx @mcptoolshop/xrpl-lab --print-cache-path # show cached binary location
 npx @mcptoolshop/xrpl-lab --clear-cache      # force fresh re-download

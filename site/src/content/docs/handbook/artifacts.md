@@ -23,7 +23,7 @@ Use the built-in audit command to batch verify all your artifacts against the le
 npx @mcptoolshop/xrpl-lab audit
 ```
 
-This checks every transaction ID against the XRPL testnet (or mainnet, depending on the module) and reports any discrepancies.
+This checks every transaction ID against the XRPL testnet and reports any discrepancies.
 
 ## Checking your last run
 

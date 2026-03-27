@@ -59,6 +59,26 @@ pipx install xrpl-lab
 xrpl-lab start
 ```
 
+## Troubleshooting
+
+If something goes wrong, diagnose your environment:
+
+```bash
+npx @mcptoolshop/xrpl-lab doctor
+```
+
+Generate an issue-ready markdown report for bug reports:
+
+```bash
+npx @mcptoolshop/xrpl-lab feedback
+```
+
+Force a fresh binary download if the cache is corrupt:
+
+```bash
+npx @mcptoolshop/xrpl-lab --clear-cache
+```
+
 ## Supported platforms
 
 - Linux x64

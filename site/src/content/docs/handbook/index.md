@@ -11,6 +11,7 @@ XRPL Lab runs 12 modules across three progressive tracks -- Beginner, Intermedia
 
 ## What's inside
 
+- **[Beginners](/npm-xrpl-lab/handbook/beginners/)** -- New to XRPL? Start here
 - **[Getting Started](/npm-xrpl-lab/handbook/getting-started/)** -- Install and run your first module
 - **[Modules](/npm-xrpl-lab/handbook/modules/)** -- All 12 modules across 3 tracks
 - **[Artifacts](/npm-xrpl-lab/handbook/artifacts/)** -- Verifiable artifacts and proof packs
